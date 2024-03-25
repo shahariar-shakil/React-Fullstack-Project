@@ -1,0 +1,14 @@
+.mainlayout {
+  display: grid;
+  grid-template-rows: 100px auto;
+  height: 100vh;
+}
+
+.sidebar {
+}
+
+.header {
+}
+
+.main {
+}
